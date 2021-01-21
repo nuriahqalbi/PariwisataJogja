@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pariwisata</string>
+    <string name="version">Versi 1.0.0</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Wisata Yogyakarta</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="penjelasan">
+    Daerah Istimewa Yogyakarta posisinya terletak diantara
+    7.33-8.12 Lintang Selatan dan 110.00- 110.50 Bujur Timur,
+    tercatat memiliki luas 3.185,80 km atau 0,17% dari luas Indonesia (1.860.359,67 km).
+    Ini terdiri atas satu kotamadya, dan empat kabupaten, yang terbagi
+    lagi menjadi 78 kecamatan, dan 438 desa/kelurahan.
+    Berdasarkan bentang alam, wilayah DIY dapat dikelompokkan
+    menjadi empat satuan fisiografi, yaitu satuan fisiografi Gunungapi Merapi,
+    satuan fisiografi Pegunungan Sewu atau Pegunungan Seribu, satuan fisiografi Pegunungan
+    Kulon Progo, dan satuan fisiografi Dataran Rendah.
+    </string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profil">Profil Yogyakarta</string>
+    <string name="menu_portal">Portal Wisata</string>
+    <string name="menu_lokasi">Lokasi Wisata</string>
+    <string name="menu_video">Video Wisata</string>
+    <string name="menu_galeri">Galeri Wisata</string>
+    <string name="menu_tentang">About</string>
+
+    <string name="txtAct_home">Ini halaman Home</string>
+    <string name="txtAct_portal">Ini halaman Portal</string>
+    <string name="txtAct_lokasi">Ini halaman Lokasi</string>
+    <string name="txtAct_galeri">Ini halaman Galeri</string>
+    <string name="txtAct_about">Ini halaman About</string>
+    <string name="txtAct_profil">Ini halaman Profil</string>
+    <string name="txtAct_video">Ini halaman Video</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">"Hai, I'm Nuriah Qalbi"</string>
+    <string name="about2">"I'm Student of Makassar State University Informatics computer enginering education Gowa, Sulawesi Selatan"</string>
+</resources>

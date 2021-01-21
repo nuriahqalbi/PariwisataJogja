@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ico_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_profil"
+            android:icon="@drawable/ico_galeri"
+            android:title="@string/menu_profil" />
+        <item
+            android:id="@+id/nav_portal"
+            android:icon="@drawable/ico_portal"
+            android:title="@string/menu_portal" />
+        <item
+            android:id="@+id/nav_lokasi"
+            android:icon="@drawable/ico_lokasi"
+            android:title="@string/menu_lokasi" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ico_video"
+            android:title="@string/menu_video" />
+        <item
+            android:id="@+id/nav_galeri"
+            android:icon="@drawable/ico_galeri"
+            android:title="@string/menu_galeri" />
+    </group>
+
+    <item android:title="Lainnya">
+        <menu>
+            <item
+                android:id="@+id/nav_tentang"
+                android:icon="@drawable/ico_tentang"
+                android:title="@string/menu_tentang" />
+            <item
+                android:id="@+id/nav_keluar"
+                android:icon="@drawable/ico_keluar"
+                android:title="Keluar"/>
+        </menu>
+    </item>
+
+</menu>
